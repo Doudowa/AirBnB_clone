@@ -1,9 +1,3 @@
-Toggle navigation
-Curriculum
-SE Foundations
-Average: 125.54%
-You just released the advanced tasks of this project. Have fun!
-0x00. AirBnB clone - The console
 Group project
 Python
 OOP
